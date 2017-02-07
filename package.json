@@ -1,20 +1,20 @@
 {
   "name": "eslint-plugin-mostaza-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint configuration used by Create React App",
   "files": [
     "config.js",
     "index.js"
   ],
   "dependencies": {
-    "babel-eslint": "ˆ7.1.1",
-    "eslint-config-react-app": "ˆ0.5.0",
-    "eslint-plugin-flowtype": "ˆ2.30.0",
-    "eslint-plugin-import": "ˆ2.2.0",
-    "eslint-plugin-jsx-a11y": "ˆ4.0.0",
-    "eslint-plugin-react": "ˆ6.9.0"
+    "babel-eslint": "^7.1.1",
+    "eslint-config-react-app": "^0.5.0",
+    "eslint-plugin-flowtype": "^2.30.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0"
   },
   "peerDependencies": {
-    "eslint": "ˆ3.15.0"
+    "eslint": "^3.15.0"
   }
 }
